@@ -14,3 +14,7 @@ Standarisasi Coding tentang Pengenalan Version Control dan Git.
 - Memahami alur kerja dasar Git (init, add, commit log) 
 - Menerapkan standar penulisan commit message (Conventional Commits) 
 - Menggunakan `.gitignore` untuk mengecualikan file tertentu 
+
+## Riwayat Pengembangan
+- Commit 1: Membuat README awal
+- Commit 2: Menambahkan .gitignore 
